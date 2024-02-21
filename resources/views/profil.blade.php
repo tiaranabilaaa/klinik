@@ -10,6 +10,7 @@
 
 <body>
     <h2>Halaman Profile</h2>
+    <a href="#">Contoh Branch</a>
 </body>
 
 </html>
